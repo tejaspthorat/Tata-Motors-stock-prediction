@@ -41,6 +41,7 @@ LSTM model accuracy->
 
 ![image](https://user-images.githubusercontent.com/97504422/228040109-fbd76dc1-52c3-41cc-9662-3348a0d7e2a8.png)
 
+(Price is reduced in the range 0-1 for LSTM model training)
 (Above representation is a comparision beetween test labels and predicted data)
 
 
