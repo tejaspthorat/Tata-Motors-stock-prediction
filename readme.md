@@ -32,6 +32,18 @@ Predicted data with Buy Tags for visualisation:
 *predictions_final.csv* is the final file with all the predictions, indicator values and BUY/SELL Action tags
 
 
+STOCK PREDICTION FOR AAPL USING LSTM
+
+The prediction for AAPL stock is also done using LSTM model.
+Steps similar to Tata motors model can be used to generate buy/sell signals and calculating the indicators
+
+LSTM model accuracy->
+
+![image](https://user-images.githubusercontent.com/97504422/228040109-fbd76dc1-52c3-41cc-9662-3348a0d7e2a8.png)
+
+(Above representation is a comparision beetween test labels and predicted data)
+
+
 
 
 
