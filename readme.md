@@ -29,6 +29,9 @@ Predicted data with Buy Tags for visualisation:
 ![image](https://user-images.githubusercontent.com/97504422/227955428-46ad706a-afbf-4d5f-a6c3-5bf0f7880866.png)
 
 
+*predictions_final.csv* is the final file with all the predictions, indicator values and BUY/SELL Action tags
+
+
 
 
 
